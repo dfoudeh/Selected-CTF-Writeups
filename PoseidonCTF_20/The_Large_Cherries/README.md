@@ -30,7 +30,7 @@ if (iVar1 == 0) ...
 ```
 We need Strcmp to return false, so sum of the chars in our string cannot be 294.
 
- Summing up the ascii values in t0m7r00z gets up 294 hex which is 660 decimal (116 + 48 + 109 + 55 + 114 + 48 + 48 + 122). So the second password cannot be t0m7r00z. However, our next if statment checks to see that the second input is equal to the first!
+ Summing up the ascii values in t0m7r00z gets us 294 hex which is 660 decimal (116 + 48 + 109 + 55 + 114 + 48 + 48 + 122). So the second password cannot be t0m7r00z. However, our next if statment checks to see that the second input is equal to the first!
 
 ```c 
 iVar1 = strcmp(local_3c,local_1b);
