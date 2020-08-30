@@ -24,7 +24,7 @@ Looking back at the challenge description, we see that there is a script called 
 
 It seems like it didnt do anything. But, looking back at our envoirnment again, we see the flag
 
-![flag](Images/5.png)
+![flag](Images/6.png)
 
 Not so useless after all!
 
